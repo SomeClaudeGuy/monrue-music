@@ -45,9 +45,12 @@ export function HeroSection() {
 
           <div className="relative section-fade">
             <div className="relative">
-              <img
-                src="/dark-alternative-artist.png"
-                alt="Monrue - Dark alternative artist portrait"
+              <video
+                src="/Download.mp4"
+                autoPlay
+                loop
+                muted
+                playsInline
                 className="w-full max-w-lg mx-auto rounded-3xl shadow-2xl hover-lift"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent rounded-3xl"></div>
