@@ -16,8 +16,8 @@ const openSans = Open_Sans({
 })
 
 export const metadata: Metadata = {
-  title: "Maya Rivers - Singer Songwriter",
-  description: "Feel the rhythm of my journey through original songs and heartfelt melodies",
+  title: "Monrue - Singer Songwriter",
+  description: "Raw Truth in Every Beat. Unfiltered emotion through haunting melodies.",
   generator: "v0.app",
 }
 
